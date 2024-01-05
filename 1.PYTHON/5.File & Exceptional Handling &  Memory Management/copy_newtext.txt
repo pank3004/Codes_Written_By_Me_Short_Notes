@@ -1,0 +1,1 @@
+this is my second line for file handlinhwhen we open the file in the append mode previous data stored in the file does not erasewhen we open the file in the append mode previous data stored in the file does not erase
